@@ -1,29 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 body{
-    display:table;
-    padding: 0px;
-    margin: 0px;
+    
     font-family: 'Ubuntu', sans-serif;
     
-}
-
-#principal{
-    background-color: #10707f;
-    min-height: 50px;
 }
 #header{
     background-color: #000;
     height: 50px;
 }
 
-#corpo{
-    
-    height: auto;
-    text-align: center;
-}
 #texto1{
-    padding: 50px;
      text-align: justify;
      font-size:1.5em;
 }
@@ -33,7 +20,7 @@ body{
 
 .image{
 height: auto;
-    width: 100%;
+width: 100%;
     
 }
 #rodapedireita{
@@ -68,10 +55,17 @@ hr{
 .azao{
     font-weight: 700;
 }
-.hr1{
-    margin-top:15px;
+
+.limpa{
+    clear: both;
+}
+
+.footer{
+    margin-top: 50px;
 }
 
 
-
-
+.navbar-inverse .navbar-nav>li>a {
+    color: #C0EB6A;
+    font-size: 1.2em;
+}
