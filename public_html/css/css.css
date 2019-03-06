@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body{
+    display:table;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+#principal{
+    background-color: #10707f;
+    min-height: 50px;
+}
+#header{
+    background-color: #000;
+    height: 50px;
+}
+
+#corpo{
+    
+    height: auto;
+    text-align: center;
+}
+#texto1{
+    padding: 50px;
+     text-align: justify;
+     font-size:1.5em;
+}
+
+
+
+
+.image{
+height: auto;
+    width: 100%;
+    
+}
+#rodapedireita{
+    background-color: #000;
+    height: 50px;
+}
+
+#rodapeesquerda{
+    background-color: #000;
+    height: 50px;
+}
+#header2{
+    background-color: #000;
+    height: 50px;
+}
+.navbar-inverse{
+    border-radius: 0px;
+}
+
+hr{
+   border:2px solid #C0EB6A;  
+}
+
+.azao:link{
+    color:#485550;
+}
+
+.azao:hover{
+    color:#BBD38B;
+    font-size:0.8em;
+}
+.azao{
+    font-weight: 700;
+}
+.hr1{
+    margin-top:15px;
+}
+
+
+
+
